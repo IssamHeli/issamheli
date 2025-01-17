@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 👨‍💻
 
 ## 🚀 About Me:
-I'm a passionate developer specializing in **ASP.NET Core** and **full-stack development**. I love creating **scalable and performant applications**.
+I'm a passionate developer specializing in **.NET Core** and **full-stack development**. I love creating **scalable and performant applications**.
 
 ## 🔧 Technologies I Use:
 ### **Backend:**
@@ -42,7 +42,7 @@ I'm a passionate developer specializing in **ASP.NET Core** and **full-stack dev
 
 
 ## 🌟 Featured Projects:
-- **[E-commerce API] - A full-stack e-commerce application with a **cash-on-delivery model** using **ASP.NET Core Api** for backend and  **Angular** for frontend
+- **E-commerce website** - A full-stack e-commerce application with a **cash-on-delivery model** using **ASP.NET Core Api** for backend and  **Angular** for frontend
 
 ## 🌍 Let's Connect:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-heli-534689244/)
