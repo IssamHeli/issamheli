@@ -16,7 +16,7 @@ I'm a passionate developer specializing in **ASP.NET Core** and **full-stack dev
 - **[E-commerce API] - A full-stack e-commerce application with a **cash-on-delivery model** using **ASP.NET Core Api** for backend and  **Angular** for frontend
 
 ## 🌍 Let's Connect:
-- [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/issam-heli-534689244/))
+- [LinkedIn]([https://www.linkedin.com/in/issam-heli-534689244/])
 
 ![.NET Core](https://img.shields.io/badge/.NET_Core-8.0-blue)
 ![Angular](https://img.shields.io/badge/Angular-12-red)
