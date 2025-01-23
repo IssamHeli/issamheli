@@ -43,8 +43,5 @@ I'm a passionate developer specializing in **.NET Core** and **full-stack develo
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 
 
-## 🌟 Featured Projects:
-- **E-commerce website** - A full-stack e-commerce application with a **cash-on-delivery model** using **ASP.NET Core Api** for backend and  **Angular** for frontend
-
 ## 🌍 Let's Connect:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-heli-534689244/)
