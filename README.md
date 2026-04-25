@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:060b18,50:0d1628,100:00e5ff&height=180&section=header&text=Issam%20Heli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20·%20SOC%20Infrastructure%20·%20AI%20Agent%20Developer&descAlignY=58&descSize=16&descColor=00e5ff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:060b18,50:0d1628,100:00e5ff&height=180&section=header&text=Issam%20Heli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20·%20SOC%20Infrastructure%20·%20AI%20Agent%20Developer&descAlignY=58&descSize=16&descColor=00e5ff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+autonomous+SOC+platforms+with+local+AI;Wazuh+·+Suricata+·+Shuffle+·+TheHive+·+MISP;FastAPI+·+React+·+Docker+·+pgvector+·+Ollama;Blue+team+%7C+SOAR+automation+%7C+Threat+detection)](https://github.com/IssamHeli)
 
