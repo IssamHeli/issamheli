@@ -119,17 +119,6 @@ Security-focused engineer building autonomous SOC platforms and AI-powered threa
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IssamHeli&show_icons=true&theme=dark&hide_border=true&bg_color=060b18&title_color=00e5ff&icon_color=00e5ff&text_color=dce8f8&border_radius=10)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IssamHeli&theme=dark&hide_border=true&background=060b18&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=7a90b5&dates=7a90b5&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IssamHeli&layout=compact&theme=dark&hide_border=true&bg_color=060b18&title_color=00e5ff&text_color=dce8f8&border_radius=10)
-
-</div>
 
 ---
 
