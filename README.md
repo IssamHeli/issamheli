@@ -1,85 +1,49 @@
-# Issam Heli - .NET Core Full-Stack Developer
-
-Welcome to my GitHub profile! 👨‍💻
-
-## 🚀 About Me:
-I'm a passionate developer specializing in **.NET Core** and **full-stack development**. I love creating **scalable and performant applications**.
-
-## 🔧 Technologies I Use:
-### **Backend:**
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8.0-blue)
-![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-8.0-blue)
-![ASP.NET Core API](https://img.shields.io/badge/ASP.NET_Core_API-8.0-blue)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-Core-green)
-![JWT](https://img.shields.io/badge/JSON_Web_Token-JWT-orange)
-![Identity Framework Core](https://img.shields.io/badge/Identity_Framework_Core-blue)
-
----
-
-### **Frontend:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-
----
-
-### **Libraries:**
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-007ACC?logo=ajax&logoColor=white)
-
----
-
-### **Database:**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-
----
-
-### **Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-
-
-## 🌍 Let's Connect:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-heli-534689244/)
-
-
 <div align="center">
 
-# Issam Heli
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:060b18,50:0d1628,100:00e5ff&height=180&section=header&text=Issam%20Heli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20·%20SOC%20Infrastructure%20·%20AI%20Agent%20Developer&descAlignY=58&descSize=16&descColor=00e5ff)
 
-**Cybersecurity Engineer · SOC Infrastructure · AI Agent Developer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+autonomous+SOC+platforms+with+local+AI;Wazuh+·+Suricata+·+Shuffle+·+TheHive+·+MISP;FastAPI+·+React+·+Docker+·+pgvector+·+Ollama;Blue+team+%7C+SOAR+automation+%7C+Threat+detection)](https://github.com/IssamHeli)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/issam-heli)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://issamheli.github.io/Portfoliowebsite/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-060b18?style=for-the-badge&logo=firefox&logoColor=00e5ff)](https://issamheli.github.io/Portfoliowebsite/)
+[![GitHub](https://img.shields.io/badge/GitHub-060b18?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IssamHeli)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-Security-focused engineer building autonomous SOC platforms and AI-powered threat detection tools.
-Currently completing a cybersecurity formation with a focus on blue team operations, SOAR automation, and local LLM integration.
+Security-focused engineer building autonomous SOC platforms and AI-powered threat detection tools. Currently completing a cybersecurity formation with a focus on **blue team operations**, **SOAR automation**, and **local LLM integration** — no cloud dependency, no data leaks.
 
-- Designing and deploying **SOC infrastructure** (Wazuh · Suricata · Arkime · Zeek · Shuffle · TheHive · MISP · Cortex · OpenCTI)
-- Building **AI agents** for autonomous alert triage and incident response — fully local, no cloud dependency
-- Full-stack development across Python/FastAPI backends and React frontends
+```
+📍 Agadir, Morocco
+🎓 Cybersecurity Formation — Projet Fin de Formation
+🔭 Currently building: NexusSOC — AI-powered autonomous SOC analyst
+🧠 Focus: Blue team · SOAR · Threat intelligence · AI agents
+🌐 Open to: Cybersecurity & SOC engineering opportunities
+```
 
 ---
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Security & SOC**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-00ADD8?style=flat-square&logo=wazuh&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF4444?style=flat-square&logoColor=white)
+![Arkime](https://img.shields.io/badge/Arkime-1E40AF?style=flat-square&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-0EA5E9?style=flat-square&logoColor=white)
 ![Shuffle](https://img.shields.io/badge/Shuffle_SOAR-6366F1?style=flat-square&logoColor=white)
 ![TheHive](https://img.shields.io/badge/TheHive-F59E0B?style=flat-square&logoColor=white)
 ![MISP](https://img.shields.io/badge/MISP-DC2626?style=flat-square&logoColor=white)
+![Cortex](https://img.shields.io/badge/Cortex-7C3AED?style=flat-square&logoColor=white)
 ![OpenCTI](https://img.shields.io/badge/OpenCTI-1D4ED8?style=flat-square&logoColor=white)
 
 **Infrastructure & DevOps**
@@ -91,12 +55,16 @@ Currently completing a cybersecurity formation with a focus on blue team operati
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+</td>
+<td valign="top" width="50%">
+
 **AI & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![asyncpg](https://img.shields.io/badge/asyncpg-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
 
@@ -104,28 +72,50 @@ Currently completing a cybersecurity formation with a focus on blue team operati
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Featured Project
 
 ### [NexusSOC](https://github.com/IssamHeli/NexusSOC) — AI-Powered SOC Platform
 
-> Autonomous alert triage platform integrating a full SOC tool stack with a local LLM.
+> Autonomous alert triage platform that integrates a full enterprise SOC tool stack with a local LLM — fully offline, zero cloud dependency.
 
 ```
-Wazuh / Suricata / Arkime / Zeek
-         │
-    Shuffle SOAR  ──►  MISP · Cortex · OpenCTI
-         │
-      TheHive  ──►  NexusSOC AI Agent  ──►  Discord Alert
-                         │
-              PostgreSQL + pgvector · Ollama · React Dashboard
+ Wazuh (SIEM) · Suricata (IDS) · Arkime (Packet) · Zeek (Network)
+                              │
+                       Shuffle SOAR              ← orchestration & automation
+                      ┌───────┴────────┐
+                    MISP           Cortex          ← threat intel & enrichment
+                  (IOC DB)      (VT + AbuseIPDB)
+                    OpenCTI                        ← CTI observables
+                      └───────┬────────┘
+                           TheHive                 ← case management
+                              │
+                    NexusSOC AI Agent              ← autonomous TP/FP triage
+               ┌──────────────┴──────────────┐
+        Ollama (local LLM)    pgvector memory & skills
+               └──────────────┬──────────────┘
+             React Dashboard · Grafana · Discord Alerts
 ```
 
-- Classifies alerts as **True Positive / False Positive** using local LLM reasoning
-- Self-learning via analyst feedback (EMA confidence updates, pgvector skill retrieval)
-- Executes automated response playbooks — fully offline, zero cloud dependency
-- Full Shuffle SOAR pipeline simulation: 16 scenarios across 5 threat groups
+| Feature | Details |
+|---|---|
+| AI Triage | Local LLM classifies every alert as True Positive or False Positive |
+| Self-learning | Analyst feedback updates skill confidence via EMA (α=0.15) |
+| Vector memory | pgvector HNSW index retrieves similar past cases at analysis time |
+| Simulation | 16 Shuffle pipeline scenarios across 5 threat groups (ransomware, APT, insider, web, DNS) |
+| Response | Automated playbooks: block IP, quarantine endpoint, Discord rich embed alert |
+| Privacy | Zero cloud dependency — all inference runs locally via Ollama |
 
 ---
 
@@ -133,15 +123,18 @@ Wazuh / Suricata / Arkime / Zeek
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IssamHeli&show_icons=true&theme=dark&hide_border=true&bg_color=060b18&title_color=00e5ff&icon_color=00e5ff&text_color=dce8f8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IssamHeli&show_icons=true&theme=dark&hide_border=true&bg_color=060b18&title_color=00e5ff&icon_color=00e5ff&text_color=dce8f8&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IssamHeli&layout=compact&theme=dark&hide_border=true&bg_color=060b18&title_color=00e5ff&text_color=dce8f8)
+![GitHub Streak](https://streak-stats.demolab.com?user=IssamHeli&theme=dark&hide_border=true&background=060b18&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=7a90b5&dates=7a90b5&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IssamHeli&layout=compact&theme=dark&hide_border=true&bg_color=060b18&title_color=00e5ff&text_color=dce8f8&border_radius=10)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Agadir, Morocco · Open to cybersecurity opportunities</sub>
-</div>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0d1628,100:060b18&height=100&section=footer)
+
+</div>
