@@ -20,7 +20,6 @@ Security-focused engineer building autonomous SOC platforms and AI-powered threa
 
 ```
 📍 Agadir, Morocco
-🎓 Cybersecurity Formation 
 🔭 Currently building: NexusSOC — AI-powered autonomous SOC analyst
 🧠 Focus: Blue team · SOAR · Threat intelligence · AI agents
 🌐 Open to: Cybersecurity & SOC engineering opportunities
